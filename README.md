@@ -1,3 +1,3 @@
 # parcel-demo
-Demo app for Parcel
-This is a different change
+
+Demo app for Parcel - with modifications
